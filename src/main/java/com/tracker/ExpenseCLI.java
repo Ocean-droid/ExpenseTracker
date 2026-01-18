@@ -368,7 +368,7 @@ public class ExpenseCLI {
     }
 
     private static void printHelp() {
-        System.out.println("ExpenseTracker - simple CLI (OCA-level style)");
+        System.out.println("ExpenseTracker - simple CLI");
         System.out.println("Usage: java tracker.ExpenseCLI <command> [options]");
         System.out.println("Commands:");
         System.out.println("  add --description \"text\" --amount 12.50 [--date YYYY-MM-DD] [--category cat]");

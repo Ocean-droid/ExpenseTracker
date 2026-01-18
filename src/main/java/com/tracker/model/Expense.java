@@ -5,7 +5,7 @@ Simple Expense model.
 Fields:
 - id: unique numeric id
 - date: "YYYY-MM-DD" string
-- amount: double (simple for OCA-level)
+- amount: double
 - description: plain text
 - category: plain text (can be empty)
 
